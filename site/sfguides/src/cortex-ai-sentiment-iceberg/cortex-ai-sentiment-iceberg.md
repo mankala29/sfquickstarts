@@ -107,6 +107,7 @@ CREATE OR REPLACE EXTERNAL VOLUME iceberg_cortex_vol
          )
       );
 ```
+<img width="901" height="701" alt="image" src="https://github.com/user-attachments/assets/b328abc0-dcd3-4afc-8a9c-ae4bf773ce5f" />
 
 Name the external volume you create `iceberg_cortex_vol`.
 
