@@ -46,6 +46,9 @@ This guide is designed to help you learn how to bring artificial intelligence (A
 - A open data lakehouse with Iceberg
 - An automated CDC pipeline to process data using an LLM
 
+  <img width="1114" height="523" alt="image" src="https://github.com/user-attachments/assets/f5bea026-b5bd-4d2b-b45c-0534f2b7e9b2" />
+
+
 <!-- ------------------------ -->
 ## Setup Snowflake
 
