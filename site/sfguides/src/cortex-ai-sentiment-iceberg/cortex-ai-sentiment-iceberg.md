@@ -68,6 +68,9 @@ The Snowflake Notebook you've created has the code needed for this demo, which a
 
 ![notebook](assets/notebook.png)
 
+
+<img width="1163" height="737" alt="image" src="https://github.com/user-attachments/assets/00cf1ba8-ab14-48ce-94d7-4429e986e33c" />
+
 ### Create an External Volume
 Before you create an Iceberg table, you must have an external volume. An external volume is a Snowflake object that stores information about your cloud storage locations and identity and access management (IAM) entities (for example, IAM roles). Snowflake uses an external volume to establish a connection with your cloud storage in order to access Iceberg metadata and Parquet data.
 
